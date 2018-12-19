@@ -58,17 +58,11 @@
         </dependency>
         <!--数据库连接-->
         <dependency>
-            <groupId>com.oracle</groupId>
-            <artifactId>oracle</artifactId>
-            <version>1.0.0</version>
-        </dependency>
-        <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java
-        <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>8.0.13</version>
+            <version>5.1.8</version>
         </dependency>
-        -->
+
         <!--给内嵌tomcat提供jsp的解析功能的jar-->
         <dependency>
             <groupId>org.apache.tomcat.embed</groupId>
